@@ -4,7 +4,7 @@ TODO
   + == completed 
   ? == not sure to do
   
-  -Reorganize all of the original labs
+  -Reorganize all of the original labs\n
     ?Pirate the lab specs?
   -Rewrite the revised labs
 
