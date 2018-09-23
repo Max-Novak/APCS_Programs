@@ -1,2 +1,2 @@
 About a year after taking the course initally I decided to go back and remake as many of the labs in a more professional experienced manner.
-Actual implementations of hash tables, stacks, and general effective programming paradigms were nearly conceptualized well when the course was initally taken.
+Actual implementations of hash tables, stacks, and general effective programming paradigms were not nearly conceptualized well enough when the course was initally taken.
