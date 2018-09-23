@@ -2,9 +2,11 @@
 TODO
   - == need to do
   + == completed 
+  
   ? == not sure to do
   
-  -Reorganize all of the original labs\n
+  -Reorganize all of the original labs
+  
     ?Pirate the lab specs?
   -Rewrite the revised labs
 
